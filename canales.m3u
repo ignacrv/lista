@@ -1,0 +1,131 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal RT en Español" tvg-name="RT en Español HD" tvg-logo="http://img.tvcl.xyz/noticias/rt.png" group-title="IPTV",RT en Español FHD (MX)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/35191
+#EXTINF:-1 tvg-id="CL - 24 Horas" tvg-name="24 Horas HD (CL)" tvg-logo="http://img.tvcl.xyz/noticias/24h.png" group-title="IPTV",24 Horas HD (CL)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/35171
+#EXTINF:-1 tvg-id="CL - CNN Chile" tvg-name="CNN Chile HD (CL)" tvg-logo="http://img.tvcl.xyz/noticias/cnn.png" group-title="IPTV",CNN Chile HD (CL)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/35180
+#EXTINF:-1 tvg-id="DISNEY HD" tvg-name="Disney Channel FHD (CO)" tvg-logo="http://img.tvcl.xyz/infantiles/dc.png" group-title="IPTV",Disney Channel FHD (CO)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34761
+#EXTINF:-1 tvg-id="MX - Disney XD" tvg-name="Disney XD FHD (MX)" tvg-logo="http://img.tvcl.xyz/infantiles/xd.png" group-title="IPTV",Disney XD FHD (MX)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34763
+#EXTINF:-1 tvg-id="DISCOVERY KIDS HD" tvg-name="Discovery Kids FHD (CO)" tvg-logo="http://img.tvcl.xyz/infantiles/dk.png" group-title="IPTV",Discovery Kids FHD (CO)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34784
+#EXTINF:-1 tvg-id="MX - Disney Junior" tvg-name="Disney Junior FHD (MX)" tvg-logo="http://img.tvcl.xyz/infantiles/dj.png" group-title="IPTV",Disney Junior FHD (MX)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34766
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="Cartoon Network FHD (CO)" tvg-logo="http://img.tvcl.xyz/infantiles/cn.png" group-title="IPTV",Cartoon Network FHD (CO)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34756
+#EXTINF:-1 tvg-id="NICKELODEON HD" tvg-name="Nickelodeon FHD (CO)" tvg-logo="http://img.tvcl.xyz/infantiles/nick.png" group-title="IPTV",Nickelodeon FHD (CO)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34772
+#EXTINF:-1 tvg-id="MX - Nick Jr." tvg-name="Nick JR FHD (MX)" tvg-logo="http://img.tvcl.xyz/infantiles/nickjr.png" group-title="IPTV",Nick JR FHD (MX)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34779
+#EXTINF:-1 tvg-id="ANIMAL PLANET HD" tvg-name="Animal Planet FHD (CO)" tvg-logo="http://img.tvcl.xyz/culturales/animalp.png" group-title="IPTV",Animal Planet FHD (CO)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34803
+#EXTINF:-1 tvg-id="NATGEO HD" tvg-name="National Geographic FHD (CO) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/natgeo.png" group-title="IPTV",National Geographic FHD (CO) (E)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/35211
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="Nat Geo Wild FHD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/natgeowild.png" group-title="IPTV",Nat Geo Wild FHD (MX) (E)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/35213
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL HD" tvg-name="Discovery Channel FHD (CO) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/discovery.png" group-title="IPTV",Discovery Channel FHD (CO) (E)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/35204
+#EXTINF:-1 tvg-id="MX - Discovery World HD" tvg-name="Discovery World FHD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/world.png" group-title="IPTV",Discovery World FHD (MX) (E)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/35207
+#EXTINF:-1 tvg-id="MX - History HD" tvg-name="History Channel FHD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/history.png" group-title="IPTV",History Channel FHD (MX) (E)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/35197
+#EXTINF:-1 tvg-id="DISCOVERY HOME and HEALTH HD" tvg-name="Discovery H&H FHD (CO)" tvg-logo="http://img.tvcl.xyz/culturales/discoveryhh.png" group-title="IPTV",Discovery H&H FHD (CO)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34816
+#EXTINF:-1 tvg-id="MX - Discovery HD Theater" tvg-name="Discovery Theater FHD (MX)" tvg-logo="http://img.tvcl.xyz/culturales/theater.png" group-title="IPTV",Discovery Theater FHD (MX)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34819
+#EXTINF:-1 tvg-id="TLC HD" tvg-name="TLC FHD (CO)" tvg-logo="http://img.tvcl.xyz/culturales/tlc.png" group-title="IPTV",Discovery TLC FHD (CO)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34824
+#EXTINF:-1 tvg-id="INVESTIGATION DISCOVERY HD" tvg-name="Investigation Discovery FHD (CO)" tvg-logo="http://img.tvcl.xyz/culturales/id.png" group-title="IPTV",Investigation Discovery FHD (CO)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34840
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC FHD (CO)" tvg-logo="http://img.tvcl.xyz/peliculasyseries/amc.png" group-title="IPTV",AMC FHD (CO)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34919
+#EXTINF:-1 tvg-id="WARNER CHANNEL HD" tvg-name="Warner Channel FHD (CO)" tvg-logo="http://img.tvcl.xyz/peliculasyseries/warner.png" group-title="IPTV",Warner Channel FHD (CO)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34923
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="Fox FHD (CO)" tvg-logo="http://img.tvcl.xyz/peliculasyseries/fox.png" group-title="IPTV",Fox FHD (CO)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34928
+#EXTINF:-1 tvg-id="FOX LIFE HD" tvg-name="Fox Life FHD (CO)" tvg-logo="http://img.tvcl.xyz/peliculasyseries/foxlife.png" group-title="IPTV",Fox Life FHD (CO)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34933
+#EXTINF:-1 tvg-id="SONY HD" tvg-name="Sony Entertainment FHD (CO)" tvg-logo="http://img.tvcl.xyz/peliculasyseries/sonye.png" group-title="IPTV",Sony Entertainment FHD (CO)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34938
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN FHD (CO)" tvg-logo="http://img.tvcl.xyz/peliculasyseries/axn.png" group-title="IPTV",AXN FHD (CO)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34943
+#EXTINF:-1 tvg-id="AandE MUNDO HD" tvg-name="A&E FHD (CO)" tvg-logo="http://img.tvcl.xyz/peliculasyseries/aye.png" group-title="IPTV",A&E FHD (CO)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34948
+#EXTINF:-1 tvg-id="MX - Universal Channel" tvg-name="Universal Channel FHD" tvg-logo="http://img.tvcl.xyz/peliculasyseries/universal.png" group-title="IPTV",Universal Channel FHD (MX)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34955
+#EXTINF:-1 tvg-id="SPACE PAN SUR HD" tvg-name="Space FHD (CO)" tvg-logo="http://img.tvcl.xyz/peliculasyseries/space.png" group-title="IPTV",Space FHD (CO)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34971
+#EXTINF:-1 tvg-id="FX HD" tvg-name="FX FHD (CO)" tvg-logo="http://img.tvcl.xyz/peliculasyseries/fx.png" group-title="IPTV",FX FHD (CO)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34976
+#EXTINF:-1 tvg-id="PARAMOUNT HD" tvg-name="Paramount Channel FHD (CO)" tvg-logo="http://img.tvcl.xyz/peliculasyseries/paramount.png" group-title="IPTV",Paramount Channel FHD (CO)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34984
+#EXTINF:-1 tvg-id="CINECANAL HD" tvg-name="Cinecanal FHD (CO)" tvg-logo="http://img.tvcl.xyz/peliculasyseries/cinecanal.png" group-title="IPTV",Cinecanal FHD (CO)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34994
+#EXTINF:-1 tvg-id="CL - Zona Latina" tvg-name="Zona Latina SD (CL)" tvg-logo="http://img.tvcl.xyz/musica/zonalatina.png" group-title="IPTV",Zona Latina SD (CL)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/35012
+#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV FHD (CO)" tvg-logo="http://img.tvcl.xyz/musica/mtv.png" group-title="IPTV",MTV FHD (CO)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/35018
+#EXTINF:-1 tvg-id="MTVLive.de" tvg-name="MTV Live FHD (MX)" tvg-logo="http://img.tvcl.xyz/musica/mtv.png" group-title="IPTV",MTV Live FHD (MX)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/35021
+#EXTINF:-1 tvg-id="CL - La Red" tvg-name="CL: La Red HD" tvg-logo="http://img.tvcl.xyz/chile/lared.png" group-title="IPTV",La Red HD
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/35310
+#EXTINF:-1 tvg-id="CL - TVN" tvg-name="CL: TVN HD" tvg-logo="http://img.tvcl.xyz/chile/tvn.png" group-title="IPTV",TVN FHD
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/35296
+#EXTINF:-1 tvg-id="CL - Mega" tvg-name="CL: Mega HD" tvg-logo="http://img.tvcl.xyz/chile/mega.png" group-title="IPTV",Mega FHD
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/35299
+#EXTINF:-1 tvg-id="CL - Chilevisión" tvg-name="CL: Chilevision FHD" tvg-logo="http://img.tvcl.xyz/chile/chilevision.png" group-title="IPTV",Chilevision FHD
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/35302
+#EXTINF:-1 tvg-id="CL - Canal 13" tvg-name="CL: Canal 13 HD" tvg-logo="http://img.tvcl.xyz/chile/canal13.png" group-title="IPTV",Canal 13 FHD
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/35305
+#EXTINF:-1 tvg-id="CL - 13C" tvg-name="CL: 13C SD" tvg-logo="http://img.tvcl.xyz/chile/13c.png" group-title="IPTV",CL: 13C SD
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/35312
+#EXTINF:-1 tvg-id="CL - CDF HD" tvg-name="CDF HD (CL)" tvg-logo="http://img.tvcl.xyz/deportes/cdf.png" group-title="IPTV",CDF HD (CL)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34675
+#EXTINF:-1 tvg-id="CL - CDF HD" tvg-name="CDF FHD (CL)" tvg-logo="http://img.tvcl.xyz/deportes/cdf.png" group-title="IPTV",CDF FHD (CL)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34676
+#EXTINF:-1 tvg-id="CL - CDF HD" tvg-name="CDF FHD (CL) (60 FPS)" tvg-logo="http://img.tvcl.xyz/deportes/cdf.png" group-title="IPTV",CDF FHD (CL) (60 FPS)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34677
+#EXTINF:-1 tvg-id="Teletrak.cl" tvg-name="Teletrak HD (CL)" tvg-logo="http://img.tvcl.xyz/deportes/teletrak.png" group-title="IPTV",Teletrak HD (CL)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34680
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports HD (CL)" tvg-logo="http://img.tvcl.xyz/deportes/directvsports.png" group-title="IPTV",Directv Sports HD (CL)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/121857
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 2 HD (CL)" tvg-logo="http://img.tvcl.xyz/deportes/directvsports.png" group-title="IPTV",Directv Sports 2 HD (CL)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/121858
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports + HD (CL)" tvg-logo="http://img.tvcl.xyz/deportes/directvsports.png" group-title="IPTV",Directv Sports + HD (CL)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/121856
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="Directv Sports HD (ARG)" tvg-logo="http://img.tvcl.xyz/deportes/directvsports.png" group-title="IPTV",Directv Sports HD (ARG)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34610
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="Directv Sports FHD (ARG)" tvg-logo="" group-title="IPTV",Directv Sports FHD (ARG)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/51364
+#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="Directv Sports 2 HD (ARG)" tvg-logo="http://img.tvcl.xyz/deportes/directvsports.png" group-title="IPTV",Directv Sports 2 HD (ARG)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34612
+#EXTINF:-1 tvg-id="612DTS2.ar" tvg-name="Directv Sports 2 FHD (ARG)" tvg-logo="http://img.tvcl.xyz/deportes/directvsports.png" group-title="IPTV",Directv Sports 2 FHD (ARG)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34614
+#EXTINF:-1 tvg-id="613DTSPlus.ar" tvg-name="Directv Sports + FHD (ARG)" tvg-logo="http://img.tvcl.xyz/deportes/directvsports.png" group-title="IPTV",Directv Sports + FHD (ARG)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34616
+#EXTINF:-1 tvg-id="CL - FOX Sports" tvg-name="Fox Sports HD (CL)" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" group-title="IPTV",Fox Sports HD (CL)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34628
+#EXTINF:-1 tvg-id="CL - FOX Sports 1 HD" tvg-name="Fox Sports FHD (CL)" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" group-title="IPTV",Fox Sports FHD (CL)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34629
+#EXTINF:-1 tvg-id="CL - FOX Sports 1 HD" tvg-name="Fox Sports 1 FHD (CL)" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" group-title="IPTV",Fox Sports 1 FHD (CL)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34632
+#EXTINF:-1 tvg-id="CL - FOX Sports 2" tvg-name="Fox Sports 2 FHD (CL)" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" group-title="IPTV",Fox Sports 2 FHD (CL)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34635
+#EXTINF:-1 tvg-id="CL - FOX Sports 3" tvg-name="Fox Sports 3 HD (CL)" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" group-title="IPTV",Fox Sports 3 HD (CL)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34637
+#EXTINF:-1 tvg-id="FoxSports.ar" tvg-name="Fox Sports FHD (ARG)" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" group-title="IPTV",Fox Sports FHD (ARG)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34641
+#EXTINF:-1 tvg-id="FoxSportsPremium.ar" tvg-name="Fox Sports Premium FHD (ARG)" tvg-logo="http://img.tvcl.xyz/deportes/foxsports.png" group-title="IPTV",Fox Sports Premium FHD (ARG)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34648
+#EXTINF:-1 tvg-id="MX - ESPN" tvg-name="ESPN FHD (MX)" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" group-title="IPTV",ESPN FHD (MX)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34653
+#EXTINF:-1 tvg-id="ESPNplus.mx" tvg-name="ESPN EXTRA FHD (MX)" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" group-title="IPTV",ESPN + FHD (MX)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34654
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-name="ESPN FHD (ARG)" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" group-title="IPTV",ESPN FHD (ARG)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34661
+#EXTINF:-1 tvg-id="ESPN2.ar" tvg-name="ESPN 2 FHD (ARG)" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" group-title="IPTV",ESPN 2 FHD (ARG)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34664
+#EXTINF:-1 tvg-id="ESPN3.ar" tvg-name="ESPN 3 FHD (ARG)" tvg-logo="http://img.tvcl.xyz/deportes/espn.png" group-title="IPTV",ESPN 3 FHD (ARG)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34667
