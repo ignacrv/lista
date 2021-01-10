@@ -19,6 +19,8 @@ http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34756
 http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34772
 #EXTINF:-1 tvg-id="MX - Nick Jr." tvg-name="Nick JR FHD (MX)" tvg-logo="http://img.tvcl.xyz/infantiles/nickjr.png" group-title="IPTV",Nick JR FHD
 http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34779
+#EXTINF:-1 tvg-id="DISCOVERY KIDS HD" tvg-name="Discovery Kids FHD (CO) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/dk.png" group-title="Latinos Dual Audio (E)",Discovery Kids FHD 
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/35220
 #EXTINF:-1 tvg-id="ANIMAL PLANET HD" tvg-name="Animal Planet FHD (CO)" tvg-logo="http://img.tvcl.xyz/culturales/animalp.png" group-title="IPTV",Animal Planet FHD
 http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34803
 #EXTINF:-1 tvg-id="NATGEO HD" tvg-name="National Geographic FHD (CO) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/natgeo.png" group-title="IPTV",National Geographic FHD
@@ -55,9 +57,16 @@ http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34943
 http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34948
 #EXTINF:-1 tvg-id="MX - Universal Channel" tvg-name="Universal Channel FHD" tvg-logo="http://img.tvcl.xyz/peliculasyseries/universal.png" group-title="IPTV",Universal Channel FHD (MX)
 http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34955
-#EXTINF:-1 tvg-id="SPACE PAN SUR HD" tvg-name="Space FHD (CO)" tvg-logo="http://img.tvcl.xyz/peliculasyseries/space.png" group-title="IPTV",Space FHD
+#EXTINF:-1 tvg-id="SPACE PAN SUR HD" tvg-name="Space FHD (CO)" tvg-logo="http://img.tvcl.xyz/peliculasyseries/space.png" group-title="IPTV",Space HD
 http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34971
-#EXTINF:-1 tvg-id="FX HD" tvg-name="FX FHD (CO)" tvg-logo="http://img.tvcl.xyz/peliculasyseries/fx.png" group-title="IPTV",FX FHD
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO FHD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/hbo.png" group-title="Latinos Dual Audio (E)",HBO HD
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/35286
+#EXTINF:-1 tvg-id="HBO PLUS HD" tvg-name="HBO Plus FHD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/hboplus.png" group-title="Latinos Dual Audio (E)",HBO Plus FHD 
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/35290
+#EXTINF:-1 tvg-id="HBOFamily.mx" tvg-name="HBO Family FHD (MX) (E)" tvg-logo="http://img.tvcl.xyz/dualaudio/hbofamily.png" group-title="Latinos Dual Audio (E)",HBO Family FHD (MX) (E)
+http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/35292
+
+#EXTINF:-1 tvg-id="FX HD" tvg-name="FX FHD (CO)" tvg-logo="http://img.tvcl.xyz/peliculasyseries/fx.png" group-title="IPTV",FX HD
 http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34976
 #EXTINF:-1 tvg-id="PARAMOUNT HD" tvg-name="Paramount Channel FHD (CO)" tvg-logo="http://img.tvcl.xyz/peliculasyseries/paramount.png" group-title="IPTV",Paramount Channel 
 http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34984
