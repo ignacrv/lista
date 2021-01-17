@@ -90,11 +90,11 @@ http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/35302
 http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/35305
 #EXTINF:-1 tvg-id="CL - 13C" tvg-name="CL: 13C SD" tvg-logo="http://img.tvcl.xyz/chile/13c.png" group-title="IPTV",CL: 13C SD
 http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/35312
-#EXTINF:-1 tvg-id="CL - CDF HD" tvg-name="CDF HD (CL)" tvg-logo="http://img.tvcl.xyz/deportes/cdf.png" group-title="IPTV",CDF HD
+#EXTINF:-1 tvg-id="CL - CDF HD" tvg-name="TNT Sports (CL)" tvg-logo="http://img.tvcl.xyz/deportes/cdf.png" group-title="IPTV",TNT Sports HD
 http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34675
-#EXTINF:-1 tvg-id="CL - CDF HD" tvg-name="CDF FHD (CL)" tvg-logo="http://img.tvcl.xyz/deportes/cdf.png" group-title="IPTV",CDF FHD 
+#EXTINF:-1 tvg-id="CL - CDF HD" tvg-name="TNT Sports FHD (CL)" tvg-logo="http://img.tvcl.xyz/deportes/cdf.png" group-title="IPTV",TNT Sports FHD 
 http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34676
-#EXTINF:-1 tvg-id="CL - CDF HD" tvg-name="CDF FHD (CL) (60 FPS)" tvg-logo="http://img.tvcl.xyz/deportes/cdf.png" group-title="IPTV",CDF FHD 
+#EXTINF:-1 tvg-id="CL - CDF HD" tvg-name="TNT Sports HD (CL)" tvg-logo="http://img.tvcl.xyz/deportes/cdf.png" group-title="IPTV",TNT Sports FHD 
 http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34677
 #EXTINF:-1 tvg-id="Teletrak.cl" tvg-name="Teletrak HD (CL)" tvg-logo="http://img.tvcl.xyz/deportes/teletrak.png" group-title="IPTV",Teletrak HD 
 http://hidraplay.tv:80/nrdljgnt/ilN7j8g9B5/34680
